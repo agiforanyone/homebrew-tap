@@ -1,6 +1,6 @@
 cask "agi-for-anyone" do
-  version "0.1.1"
-  sha256 "41d3df2acd37aa279b48a5c95287c767a33c39590bcc7ff6fe0e6fe7d319aa41"
+  version "0.1.2"
+  sha256 "8dbeb5bb4288859c635bc52b5296da04327029c0384b4a25b64c1e67ad1aa5d9"
 
   url "https://github.com/agiforanyone/app/releases/download/v#{version}/AGI-for-Anyone.dmg",
       verified: "github.com/agiforanyone/app/"
