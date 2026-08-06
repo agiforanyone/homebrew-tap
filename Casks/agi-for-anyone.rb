@@ -9,7 +9,6 @@ cask "agi-for-anyone" do
   homepage "https://agiforanyone.com/"
 
   depends_on macos: :ventura
-  depends_on arch: :arm64
 
   app "AGI for Anyone.app"
 
