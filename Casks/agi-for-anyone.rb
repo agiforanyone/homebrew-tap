@@ -18,5 +18,7 @@ cask "agi-for-anyone" do
     "~/Library/Preferences/com.agiforanyone.app.plist",
     "~/Library/Saved Application State/com.agiforanyone.app.savedState",
     "~/Library/WebKit/com.agiforanyone.app",
+    "~/Library/Application Support/agiforanyone",
+    "~/.config/agiforanyone",
   ]
 end
